@@ -1,12 +1,15 @@
-#Convert-HTML-Tag
+#Convert HTML Tag
 
 ##About
 
+Convert PlainText to HTML-Tags.
 
+##Setup
 
-##Usage
+1. Open "System Preferences" > "Keyboard" > "Shortcuts" > ""Services"
+2. Check "Convert HTML Tag"
 
-
+<img src="https://raw.github.com/veadar/Convert-HTML-Tag/master/screenshot1.jpg">
 
 ##Screenshot
 
